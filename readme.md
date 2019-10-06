@@ -1,3 +1,5 @@
+> All solutions in this fork are © 2018 Martin Rosenberg, and are available under a [GPL-3.0-or-later license](https://spdx.org/licenses/GPL-3.0-or-later.html), [included](./LICENSE).
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
@@ -5,6 +7,8 @@
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+
+
 
 ## Community #JavaScript30 Content
 
